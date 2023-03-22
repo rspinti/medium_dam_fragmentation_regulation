@@ -1,4 +1,4 @@
-# The Evolution of River Fragmentation caused by Dam Construction in the United States
+# The Evolution of Dam Induced River Fragmentation in the United States
  
  This repository contains the source code used in the research article by Spinti et al. "The Evolution Dam Induced River Fragmentation in the United States" at (insert doi here). 
  
