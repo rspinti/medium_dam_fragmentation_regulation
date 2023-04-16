@@ -26,7 +26,8 @@
  - Revised version of Global Reservoir and Dam Database (GRanD), missing large dams, and large dams with incorrect NABDID available in our Cyverse repository.
 
 ## Outputs
- All code outputs are available at (insert Cyverse DOI link here). 
+ All code outputs are available on Cyverse Data Commons (see citation below).
+ Rachel A. Spinti (2023). Spinti_river_fragmentation_data_2022. CyVerse Data Commons. DOI 10.25739/bjd1-6k38. 
 
 ## Python
 The analysis was run with following version of Python and libraries. 
