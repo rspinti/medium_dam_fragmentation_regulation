@@ -27,7 +27,9 @@
 
 ## Outputs
  All code outputs are available at Cyverse Data Commons (https://datacommons.cyverse.org/browse/iplant/home/shared/commons_repo/curated/Spinti_river_fragmentation_data_2022).
+
 The citation for the code outputs is displayed below.
+
 Rachel A. Spinti (2023). Spinti_river_fragmentation_data_2022. CyVerse Data Commons. DOI 10.25739/bjd1-6k38
 
 ## Python
