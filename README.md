@@ -1,4 +1,6 @@
 # The Evolution of Dam Induced River Fragmentation in the United States
+
+[![DOI](https://zenodo.org/badge/445677592.svg)](https://zenodo.org/badge/latestdoi/445677592)
  
  This repository contains the source code used in the research article by Spinti et al. "The Evolution of Dam Induced River Fragmentation in the United States" at (insert doi here). 
  
